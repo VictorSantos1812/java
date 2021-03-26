@@ -7,7 +7,7 @@ public class TestaEscopo {
 		//boolean acompanhado = quantidadePessoas >=2 ;
 		if(quantidadePessoas >= 2) {
 			//aqui neste bloco if, a variável foi declarada
-			boolean acompanhado = true;
+			//boolean acompanhado = true;
 			// a partir do fechamento do bloco, ela não irá servir
 		}else {
 			//novamente nesse bloco, ela foi declarada novamente
