@@ -1,22 +1,22 @@
 
-public class TestaCondicional {
+// public class TestaCondicional {
 
-	public static void main(String[] args) {
+// 	public static void main(String[] args) {
 		
-		//System.out.println("testando condicionais");
-		int idade  = 16;
-		int quantidadePessoas = 3;
+// 		//System.out.println("testando condicionais");
+// 		int idade  = 16;
+// 		int quantidadePessoas = 3;
 		
-		if(idade >= 18) {
-			System.out.println("maior de idade");
-			System.out.println("Seja bem vindo");
-		}else{
-			if(quantidadePessoas >= 2) {
-				System.out.println("você não tem 18, porém está acompanhado, pode entrar");
-			}else {
-			System.out.println("Infelizmente você não pode entrar");
-			}
-		}
-	}
+// 		if(idade >= 18) {
+// 			System.out.println("maior de idade");
+// 			System.out.println("Seja bem vindo");
+// 		}else{
+// 			if(quantidadePessoas >= 2) {
+// 				System.out.println("vocï¿½ nï¿½o tem 18, porï¿½m estï¿½ acompanhado, pode entrar");
+// 			}else {
+// 			System.out.println("Infelizmente vocï¿½ nï¿½o pode entrar");
+// 			}
+// 		}
+// 	}
 
-}
+// }
